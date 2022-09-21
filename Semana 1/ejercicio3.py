@@ -1,4 +1,4 @@
-price = float(input("How much money do you will to deposit?: ")
+deposit = float(input("How much money do you will to deposit?: "))
 profit = deposit * 0.04
 year1 = deposit + profit
 profit = year1 * 0.04
